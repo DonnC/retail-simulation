@@ -150,7 +150,7 @@ class Owner():
             return None
 
 
-print('-- SimplexSolutions Retail System --')
+print('-- Simulation Retail System --')
 
 env = simpy.Environment()
 
