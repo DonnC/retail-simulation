@@ -1,0 +1,1566 @@
+[Agent: 0] Here i am, I have been allocated $2274, current virtual balance: $7726.0
+
+[Agent: 0] I performed a sale of $905 | agent bal now : $1369 | owner balance: $9095.0
+
+[Agent: 0] I performed a sale of $1211 | agent bal now : $158 | owner balance: $7884.0
+
+[Agent: 0] Insufficient balance to perform sale of $1086. I have $158,  Please allocate me more funds | owner balance: $7884.0
+
+[Agent: 0] Insufficient balance to perform sale of $1857. I have $158,  Please allocate me more funds | owner balance: $7884.0
+
+[Agent: 0] Insufficient balance to perform sale of $868. I have $158,  Please allocate me more funds | owner balance: $7884.0
+
+[Agent: 0] Insufficient balance to perform sale of $1981. I have $158,  Please allocate me more funds | owner balance: $7884.0
+
+[Agent: 0] I performed a sale of $115 | agent bal now : $43 | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1045. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $648. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $946. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $907. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2017. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1336. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $585. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1941. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1144. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1593. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1872. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2091. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $899. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1260. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1140. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $879. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1882. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1523. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $519. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $106. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $772. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1579. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $214. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $997. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1655. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1047. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2163. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $556. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $145. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1292. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $387. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1198. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1910. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $621. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2098. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $995. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1716. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $151. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $633. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2142. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1378. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1557. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1284. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $982. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1940. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1261. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1497. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2182. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1073. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1053. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $638. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1223. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1414. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $604. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2218. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1495. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1000. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1507. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $484. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $975. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1768. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $443. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2157. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $844. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $449. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2015. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $868. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1216. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $489. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $576. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1733. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $521. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1921. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1126. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2122. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $404. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1494. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1823. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2035. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1700. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1524. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1747. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1037. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1776. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1483. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1934. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $840. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1344. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1141. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1750. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1850. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $604. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1702. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $860. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $249. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $907. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2166. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1632. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $388. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2241. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1529. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1835. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2167. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1948. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2168. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2175. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $611. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $326. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1896. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $831. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $402. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1295. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2128. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2137. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1751. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $514. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $453. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $2027. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $450. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1277. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1766. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $246. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $772. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $1812. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 0] Insufficient balance to perform sale of $506. I have $43,  Please allocate me more funds | owner balance: $7769.0
+
+[Agent: 1] Here i am, I have been allocated $5343, current virtual balance: $2383.0
+
+[Agent: 1] I performed a sale of $478 | agent bal now : $4865 | owner balance: $7291.0
+
+[Agent: 0] Insufficient balance to perform sale of $297. I have $43,  Please allocate me more funds | owner balance: $7291.0
+
+[Agent: 1] I performed a sale of $270 | agent bal now : $4595 | owner balance: $7021.0
+
+[Agent: 0] Insufficient balance to perform sale of $333. I have $43,  Please allocate me more funds | owner balance: $7021.0
+
+[Agent: 0] Insufficient balance to perform sale of $633. I have $43,  Please allocate me more funds | owner balance: $7021.0
+
+[Agent: 1] I performed a sale of $1086 | agent bal now : $3509 | owner balance: $5935.0
+
+[Agent: 0] Insufficient balance to perform sale of $104. I have $43,  Please allocate me more funds | owner balance: $5935.0
+
+[Agent: 1] I performed a sale of $1055 | agent bal now : $2454 | owner balance: $4880.0
+
+[Agent: 0] Insufficient balance to perform sale of $1892. I have $43,  Please allocate me more funds | owner balance: $4880.0
+
+[Agent: 0] Insufficient balance to perform sale of $833. I have $43,  Please allocate me more funds | owner balance: $4880.0
+
+[Agent: 0] Insufficient balance to perform sale of $894. I have $43,  Please allocate me more funds | owner balance: $4880.0
+
+[Agent: 1] Insufficient balance to perform sale of $3480. I have $2454,  Please allocate me more funds | owner balance: $4880.0
+
+[Agent: 1] I performed a sale of $524 | agent bal now : $1930 | owner balance: $4356.0
+
+[Agent: 0] Insufficient balance to perform sale of $1820. I have $43,  Please allocate me more funds | owner balance: $4356.0
+
+[Agent: 0] Insufficient balance to perform sale of $1323. I have $43,  Please allocate me more funds | owner balance: $4356.0
+
+[Agent: 1] I performed a sale of $916 | agent bal now : $1014 | owner balance: $3440.0
+
+[Agent: 0] Insufficient balance to perform sale of $1853. I have $43,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 1] Insufficient balance to perform sale of $5336. I have $1014,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 0] Insufficient balance to perform sale of $1402. I have $43,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 1] Insufficient balance to perform sale of $3011. I have $1014,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 0] Insufficient balance to perform sale of $508. I have $43,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 1] Insufficient balance to perform sale of $4928. I have $1014,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 0] Insufficient balance to perform sale of $841. I have $43,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 0] Insufficient balance to perform sale of $1496. I have $43,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 1] Insufficient balance to perform sale of $4631. I have $1014,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 0] Insufficient balance to perform sale of $1546. I have $43,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 1] Insufficient balance to perform sale of $2967. I have $1014,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 0] Insufficient balance to perform sale of $1518. I have $43,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 0] Insufficient balance to perform sale of $1101. I have $43,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 1] Insufficient balance to perform sale of $4744. I have $1014,  Please allocate me more funds | owner balance: $3440.0
+
+[Agent: 1] I performed a sale of $877 | agent bal now : $137 | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $273. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1501. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $2290. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $1941. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $4466. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1040. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $4888. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1892. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $889. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1453. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $3698. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $2195. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $968. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $2116. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1533. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1137. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $3225. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $785. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $3144. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1967. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $1757. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $236. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $624. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $2439. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $259. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $3641. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $647. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $5136. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $563. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $2654. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $429. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $1587. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $203. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $1483. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1484. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $3155. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1874. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $4934. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $647. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $3427. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $324. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $1365. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $3836. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 0] Insufficient balance to perform sale of $924. I have $43,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] Insufficient balance to perform sale of $2902. I have $137,  Please allocate me more funds | owner balance: $2563.0
+
+[Agent: 1] I performed a sale of $86 | agent bal now : $51 | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $916. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $227. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $685. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2045. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2650. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1018. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2787. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2003. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $61. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1058. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2747. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1320. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $901. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $85. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4781. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1558. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $434. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2890. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $242. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2741. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1474. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2525. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $939. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $213. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3308. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1719. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2962. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1164. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3524. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1836. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1387. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1559. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1338. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4752. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1045. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $864. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2057. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4612. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3852. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $747. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1908. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1104. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4819. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1111. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1633. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1943. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1123. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1455. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1503. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5171. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1658. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2063. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[ERROR] Not enough funds to allocate Agent: 2 | virtual balance: $2383.0 | to allocate $5427
+
+[Agent: 0] Insufficient balance to perform sale of $853. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1787. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1997. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $878. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5011. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $993. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3048. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1152. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3201. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $697. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3035. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1282. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2164. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2446. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1418. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4787. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $152. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $786. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4330. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2216. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1772. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $509. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3632. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2033. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $144. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2051. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $558. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1174. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1794. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3292. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2294. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1211. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $532. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1265. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5005. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1566. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1874. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1898. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3457. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1246. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1771. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3358. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2112. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $810. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $64. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4094. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $560. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2023. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1187. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1618. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $95. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2144. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $980. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1109. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4685. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $687. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2876. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $145. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3556. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1286. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2958. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1658. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3742. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $139. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4225. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1531. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2959. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1001. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4497. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1336. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4835. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1681. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1682. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1099. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $841. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1588. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3657. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2117. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1840. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2193. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1758. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $304. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $801. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3306. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1939. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $998. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3744. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $453. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1936. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1297. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $692. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4822. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1938. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4400. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $438. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $609. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $64. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $749. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4201. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2290. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4281. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $700. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4560. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1250. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1866. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1366. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1896. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $164. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $121. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2149. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1780. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1857. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1842. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1968. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $703. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $989. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $854. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $772. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $444. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2140. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4314. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2193. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4249. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4927. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2834. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $626. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5020. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1214. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4644. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2363. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $491. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2374. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1234. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1221. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1526. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1959. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1741. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $761. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1846. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2644. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1612. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2784. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1902. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4719. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1897. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4762. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $255. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2263. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2184. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4467. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $883. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5334. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1754. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4864. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $969. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1356. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $661. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2115. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5338. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2933. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $703. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3326. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $981. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4886. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1021. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5012. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $392. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2632. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $373. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5352. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1471. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1081. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1445. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $337. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $337. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1038. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $315. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $217. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2721. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1672. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2784. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $814. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $278. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1842. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1231. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1829. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $534. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1981. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5127. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $834. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4291. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2185. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $429. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $350. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4550. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1603. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3699. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2154. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2184. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2116. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $122. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2888. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $347. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $795. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2271. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2134. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $232. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4772. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1861. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2586. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1367. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2863. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2264. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1350. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1221. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4907. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1580. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5060. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2309. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1632. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3169. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4752. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1122. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2462. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $380. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2865. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1434. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3257. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $446. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4038. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2014. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1659. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2214. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2273. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1649. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4310. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $703. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3725. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $554. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1554. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $683. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1860. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $206. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2712. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2299. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $212. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4804. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $609. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2385. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1355. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1600. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1496. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $647. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4588. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1163. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2137. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5201. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $387. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $91. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1277. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1315. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1760. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3967. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1786. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4469. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2235. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $340. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2586. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $579. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1029. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2961. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $346. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1677. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5101. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1895. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $932. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1784. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $108. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $219. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2766. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $57. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1556. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4930. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $262. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4505. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4870. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1714. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $826. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $687. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1536. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1052. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2096. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $673. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $308. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $879. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $900. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1703. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2936. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4643. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $355. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4746. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $791. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2020. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1466. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2003. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1481. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $985. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1478. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1949. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1963. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1592. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2247. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3089. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2154. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3117. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $505. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4088. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $829. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3321. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1544. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2894. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $784. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2861. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $791. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2892. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $706. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5021. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $899. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1556. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $338. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3574. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1971. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2621. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1832. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5112. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2038. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $210. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2045. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4639. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1480. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4987. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1757. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5243. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2110. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4191. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $918. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $57. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4316. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3640. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $766. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $373. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $503. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5139. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $545. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2306. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $178. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1131. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1157. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2858. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2043. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1360. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1382. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2499. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1518. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $177. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1276. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2956. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1040. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1626. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4910. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $953. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1745. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $101. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1328. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4210. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1018. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4077. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $580. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $156. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $877. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $101. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1180. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4905. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $418. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1012. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1086. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $55. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2185. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $659. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3296. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $579. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2604. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1429. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4988. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2102. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2925. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $694. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4061. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $586. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1006. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5122. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1309. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1350. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $848. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $628. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2234. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3099. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $94. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3434. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1336. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1779. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $213. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4162. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $561. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $234. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1866. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2874. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $292. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4931. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1731. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1463. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $281. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $284. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3877. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $603. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3838. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2791. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1673. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3831. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1109. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1678. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $553. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3378. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1503. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3338. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $991. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2265. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $481. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $894. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4289. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1227. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4803. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1419. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $610. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2929. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $394. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3101. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1723. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4699. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1464. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4345. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2226. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1947. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1086. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $787. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $957. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $416. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $788. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5054. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2279. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2715. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1337. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1611. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $805. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1564. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $479. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1878. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $5229. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $825. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $69. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $518. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1962. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $712. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3276. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $353. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3168. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $350. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2000. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $512. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3996. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3261. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1570. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4086. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $849. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $463. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2029. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1544. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1644. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1585. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $351. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4990. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1279. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $1526. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $980. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2575. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3725. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $203. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4826. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2133. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $4916. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $595. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $2198. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2304. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $1334. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3597. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $2198. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 1] Insufficient balance to perform sale of $3020. I have $51,  Please allocate me more funds | owner balance: $2477.0
+
+[Agent: 0] Insufficient balance to perform sale of $617. I have $43,  Please allocate me more funds | owner balance: $2477.0
+
++---------+----------------------------+-----------------+--------+----------------+
+|  Agent  |            Date            | Customer Number | Amount | Transaction Id |
++---------+----------------------------+-----------------+--------+----------------+
+| Agent 0 | 2021-10-08T15:54:29.003129 |    0778372853   | 905.0  |      3277      |
+| Agent 0 | 2021-10-08T15:54:29.014128 |    0778172453   | 1211.0 |      4238      |
+| Agent 0 | 2021-10-08T15:54:29.047123 |    0778172203   | 115.0  |      9542      |
+| Agent 1 | 2021-10-08T15:54:29.894370 |    0778472263   | 478.0  |      9991      |
+| Agent 1 | 2021-10-08T15:54:29.909372 |    0778472673   | 270.0  |      9575      |
+| Agent 1 | 2021-10-08T15:54:29.929372 |    0778972623   | 1086.0 |      2948      |
+| Agent 1 | 2021-10-08T15:54:29.943376 |    0778172643   | 1055.0 |      5211      |
+| Agent 1 | 2021-10-08T15:54:29.978372 |    0778272843   | 524.0  |      6109      |
+| Agent 1 | 2021-10-08T15:54:30.003376 |    0778972133   | 916.0  |      3694      |
+| Agent 1 | 2021-10-08T15:54:30.125061 |    0778472873   | 877.0  |      3318      |
+| Agent 1 | 2021-10-08T15:54:30.474826 |    0778972763   |  86.0  |      7900      |
++---------+----------------------------+-----------------+--------+----------------+
+
+[INFO] Total agent sales: $7523.0
+
+[INFO] Remaing virtual balance: $2383.0 | initial balance: $10000.0
+
+[INFO] Remaing owner balance: $2477.0 | initial balance: $10000.0
+
